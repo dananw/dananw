@@ -1,5 +1,15 @@
 ### Hi there, I'm [Danan Wijaya](https://github.com/dananw/dananw/) 👋
 
+<a href="https://www.linkedin.com/in/danan-wijaya/" title="Connect to me">
+  <img align="left" alt="Danan Wijaya | LinkedIn" width="20px" src="./assets/linkedin.svg" />
+</a>
+
+<a href="mailto:dananwijaya1996@gmail.com" title="Send email to me">
+  <img align="left" alt="Danan Wijaya | Mail" width="20px" src="./assets/email.svg" />
+</a>
+
+<br />
+<br />
 
 Hi, I'm Danan Wijaya, a passionate FrontEnd Web Developer.
 
