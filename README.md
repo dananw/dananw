@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, I'm [Danan Wijaya](https://github.com/dananw/dananw/) 👋
+
+
+Hi, I'm Danan Wijaya, a passionate FrontEnd Web Developer.
+
+Also has experiences as Backend Developer in along time ago.
+
+I'm from Indonesia.
 
 **Languages and Tools:**
-
-**Backend:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
@@ -12,9 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-
-**Frontend:**
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/es6/es6.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
@@ -24,9 +26,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-
-**OS:**
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
