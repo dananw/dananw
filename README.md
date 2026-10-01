@@ -1,58 +1,28 @@
-### Hi there, I'm [Danan Wijaya](https://github.com/dananw/dananw/) 👋
+# Hi, I'm Danan 👋
 
-<a href="https://www.linkedin.com/in/danan-wijaya/" title="Connect to me">
-  <img align="left" alt="Danan Wijaya | LinkedIn" width="20px" src="./assets/linkedin.svg" />
-</a>
+**Full Stack Developer** — [Top Rated on Upwork](https://www.upwork.com/freelancers/~01a287e92174442263) · 100% Job Success · 10+ years experience
 
-<a href="mailto:dananwijaya1996@gmail.com" title="Send email to me">
-  <img align="left" alt="Danan Wijaya | Mail" width="20px" src="./assets/email.svg" />
-</a>
+I help startups and enterprises ship scalable web platforms across e-commerce, SaaS, fintech, and healthcare. I work **AI-native** — Cursor, Claude Code, Codex, and oh-my-pi are part of my daily workflow, from agentic coding to LLM-powered features in production.
 
-<br />
-<br />
+**Links:** [dnw.my.id](https://dnw.my.id) · [Upwork](https://www.upwork.com/freelancers/~01a287e92174442263) · [LinkedIn](https://www.linkedin.com/in/danan-wijaya/) · [Email](mailto:dananwijaya1996@gmail.com)
 
-Hi, I'm Danan Wijaya, a passionate FrontEnd Web Developer.
+### Stack
 
-Also has experiences as Backend Developer in along time ago.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,tailwind,vue,py,django,rails&perline=10" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,postgres,mysql,mongodb,redis,graphql,docker,aws,gcp&perline=10" />
+</p>
 
-I'm from Indonesia.
+TypeScript is home base — also shipping in Python, Go, Ruby, and Rust.
 
-**Languages and Tools:**
+### AI toolchain
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/es6/es6.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+Daily drivers: `Cursor` `Claude Code` `Codex` `oh-my-pi`
 
+Experimenting: `Pi` `DeepSeek` `MCP` — testing different models and agent harnesses to find what actually ships.
 
-<br />
+---
 
-<!--
-**dananw/dananw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Ngawi, Indonesia — open to new projects via [Upwork](https://www.upwork.com/freelancers/~01a287e92174442263) or [email](mailto:dananwijaya1996@gmail.com).
